@@ -1,19 +1,35 @@
 # Release list
 
-## Abel
+## A. Abel
   阿贝尔
-## Bach
+
+## B. Bach
   巴赫
-## Chern
+
+## C. Chern
   陈省身
-## Descartes
+
+## D. Descartes
   笛卡尔
   
-## Erdos
+## E. Erdos
   爱尔特希
 
-## Fourier
+## F. Fourier
   傅里叶
 
 ## G. Gauss
   高斯
+
+## H. Hartogs
+  哈托格斯
+
+## I. Isaacs
+  艾萨克斯
+
+## L. Laplace
+  拉普拉斯
+
+## M. Minkowski
+  闵可夫斯基
+
