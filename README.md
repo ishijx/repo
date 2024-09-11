@@ -12,8 +12,8 @@
 ## D. Descartes
   笛卡尔
   
-## E. Erdos
-  爱尔特希
+## E. Euler
+  欧拉
 
 ## F. Fourier
   傅里叶
@@ -31,5 +31,8 @@
   拉普拉斯
 
 ## M. Minkowski
+  闵可夫斯基
+
+## N. Minkowski
   闵可夫斯基
 
